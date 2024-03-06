@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=
+comment1.target=GUI()
+comment2.params=
+comment2.target=void\ inicializarGUI()
+comment3.params=
+comment3.target=void\ inicializarBotones()
+comment4.params=
+comment4.target=void\ mostrarBombas()
+comment5.params=f\ c
+comment5.target=void\ liberarEspacios(int,\ int)
+comment6.params=f\ c
+comment6.target=int\ contarSeguras(int,\ int)
+comment7.params=f\ c
+comment7.target=void\ chequearCasillasAlrededor(int,\ int)
+comment8.params=
+comment8.target=void\ reiniciarJuego()
+comment9.params=
+comment9.target=void\ reiniciarBotones()
+numComments=10

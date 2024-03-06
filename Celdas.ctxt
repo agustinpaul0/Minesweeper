@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Celdas
+comment1.params=
+comment1.target=Celdas()
+comment2.params=f\ c
+comment2.target=boolean\ celdaJugada(int,\ int)
+comment3.params=
+comment3.target=int\ celdasPresionadas()
+comment4.params=f\ c
+comment4.target=void\ jugarCelda(int,\ int)
+numComments=5

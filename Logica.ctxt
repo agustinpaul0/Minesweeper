@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Logica
+comment1.params=
+comment1.target=Logica()
+comment10.params=f\ c
+comment10.target=void\ presionarCelda(int,\ int)
+comment11.params=
+comment11.target=void\ inicializarMatriz()
+comment2.params=
+comment2.target=int\ cantidadFilas()
+comment3.params=
+comment3.target=int\ cantidadColumnas()
+comment4.params=
+comment4.target=int\ obtenerBombas()
+comment5.params=f\ c
+comment5.target=boolean\ obtenerCelda(int,\ int)
+comment6.params=f\ c
+comment6.target=boolean\ esSegura(int,\ int)
+comment7.params=f\ c
+comment7.target=boolean\ celdaPresionada(int,\ int)
+comment8.params=f\ c
+comment8.target=boolean\ celdaValida(int,\ int)
+comment9.params=
+comment9.target=int\ obtenerCeldasPresionadas()
+numComments=12
